@@ -13,7 +13,7 @@ fi
 #fsize=2000000
 #exec 2>>$log  #如果执行过程中有错误信息均输出到日志文件中
 
-echo -e "\033[31m 这个是ceph集群脚本！欢迎关注我的个人公众号“devops的那些事”获得更多实用工具！Please continue to enter or ctrl+C to cancel \033[0m"
+echo -e "\033[31m 这个是ceph集群脚本！欢迎关注我的个人公众号“波哥的IT人生”获得更多实用工具！Please continue to enter or ctrl+C to cancel \033[0m"
 sleep 5
 #yum update
 yum_update(){
